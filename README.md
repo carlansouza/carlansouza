@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Carla Sousa!
 - 🔭 Hoje trabalho com front-end e back-end.
-- 🌱 Estou estudando Angular
 - 😄 Pronouns: ela/dela
+- 🌱 
 
 <div align="center">
   <a href="https://github.com/carlansouza">
