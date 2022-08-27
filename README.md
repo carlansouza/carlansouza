@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Carla Sousa!
-- 🔭 Hoje trabalho com front-end e back-end.
-- 😄 Pronouns: ela/dela
-- 🌱 
+<pre>
+    Em busca sempre de novos desafios, melhorar cada dia mais.
+</pre>
+<hr>
 
 <div align="center">
   <a href="https://github.com/carlansouza">
@@ -10,7 +11,7 @@
 </div>
 <hr>
 
-<h3>Competências</h3>
+<h3>Skills</h3>
 
 <div style="display: inline_block><br>
   <img align="center" alt="Carla-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
