@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Carla Sousa!
 <pre>
-    Em busca sempre de novos desafios, melhorar cada dia mais.
+    Em busca sempre de novos desafios e melhorar cada dia mais.
 </pre>
 <hr>
 
