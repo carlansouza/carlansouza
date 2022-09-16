@@ -1,7 +1,5 @@
-## Olá! Eu sou a Carla Sousa!
-<pre>
-    Em busca sempre de novos desafios e melhorar cada dia mais.
-</pre>
+## Olá! Eu sou Carla Sousa!
+
 <hr>
 
 <div align="center">
